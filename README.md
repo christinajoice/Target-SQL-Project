@@ -1,4 +1,4 @@
-Context:
+**Context:**
 
 Target is a globally renowned brand and a prominent retailer in the United States. Target makes itself a preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.
 This particular business case focuses on the operations of Target in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
@@ -7,10 +7,11 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 ![image](https://github.com/christinajoice/Target-SQL-Project/assets/29749411/1f4423c6-026a-4507-842c-66b9d6e6ab98)
 
 
-Problem Statement:
+**Problem Statement:**
+
 Analyze the given dataset to extract valuable insights and provide actionable recommendations.
 
-What does 'good' look like?
+**What does 'good' look like?**
 
     1. Import the dataset and do usual exploratory analysis steps like checking the structure & characteristics of the dataset:
         1. Data type of all columns in the "customers" table.
